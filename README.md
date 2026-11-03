@@ -1,6 +1,6 @@
-# SERTAI Release Kit
+# Artist Release Kit
 
-**SERTAI Release Kit**
+**Artist Release Kit**
 
 Turn any track into a complete, distributor-ready release package in one command.
 
