@@ -13,10 +13,21 @@ Extract BPM, estimated key, energy and brightness from a track, then fill a comp
 
 ```bash
 pip install -r requirements.txt
+
+# Basic analysis
 python analyze_audio_release.py your-track.wav --json metrics.json
+
+# Auto-fill release kit
+python analyze_audio_release.py your-track.wav \
+  --template templates/release_kit_template.md \
+  --output release-kit.md \
+  --lyrics lyrics.txt \
+  --artist "SERTAI" \
+  --title "Track Name" \
+  --track-number "1"
 ```
 
-Use the JSON output + your lyrics to fill the template. Key detection is an estimate — confirm in a DAW when it matters.
+Use the JSON output or the filled Markdown. Key detection includes a confidence percentage and is an estimate — confirm in a DAW when it matters.
 
 ## Notes
 
