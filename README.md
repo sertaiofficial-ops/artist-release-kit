@@ -1,5 +1,17 @@
 # SERTAI Release Kit
 
+**SERTAI Release Kit**
+
+Turn any track into a complete, distributor-ready release package in one command.
+
+Analyze your audio for tempo, estimated key (with confidence), energy, and brightness. Then automatically fill a clean Markdown template with metadata, pitches, captions, and lyrics — ready for Spotify, YouTube, and socials.
+
+Built for independent artists who want consistent, professional releases without the busywork.
+
+**Local. Fast. No cloud required.**
+
+SERTAI LAB — Music, code & cinematic storytelling.
+
 **SERTAI LAB — Audio analysis + release kit generator for independent artists.**
 
 Extract BPM, estimated key, energy and brightness from a track, then fill a complete distributor-ready release kit (metadata, pitches, captions, lyrics structure).
