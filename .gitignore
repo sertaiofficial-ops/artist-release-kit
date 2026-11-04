@@ -1,0 +1,43 @@
+# Secrets and credentials
+.env
+.env.*
+*.env
+!.env.example
+*.pem
+*.key
+*.p12
+credentials*.json
+service-account*.json
+secrets*.json
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python caches and builds
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+build/
+dist/
+*.egg-info/
+
+# Generated outputs (metrics JSON / filled release kits)
+output/
+outputs/
+release_kit*.md
+!templates/release_kit_template.md
+metrics*.json
+
+# Local audio
+*.wav
+*.mp3
+*.flac
+
+# OS files
+.DS_Store
+Thumbs.db
