@@ -49,3 +49,9 @@ Use the JSON output or the filled Markdown. Key detection includes a confidence 
 
 **SERTAI LAB**  
 Independent music & cinematic storytelling.
+
+## License
+
+The source code in this repository is released under the [MIT License](LICENSE).
+
+The MIT License covers the source code only. It grants no rights to SERTAI's music, sound recordings, cover art, images or other visuals, or to the SERTAI name, logo or other brand elements. All of those remain all rights reserved.
